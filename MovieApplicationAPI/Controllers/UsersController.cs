@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Cors;
+﻿using FluentValidation;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -17,11 +18,13 @@ namespace MovieAppAPI.Controllers
     public class UsersController : Controller
     {
         private readonly IUserService _userService;
+        private readonly IValidator<RegisterDto> _registerValidator;
         private readonly IConfiguration _config;
 
-        public UsersController(IUserService userService, IConfiguration config)
+        public UsersController(IUserService userService, IValidator<RegisterDto> registerValidator, IConfiguration config)
         {
             _userService = userService;
+            _registerValidator = registerValidator ?? throw new ArgumentNullException(nameof(registerValidator));
             _config = config;
         }
 
@@ -48,6 +51,7 @@ namespace MovieAppAPI.Controllers
         [HttpPost("SignUp")]
         public async Task<IActionResult> SignUp( RegisterDto registerDto)
         {
+            await _registerValidator.ValidateAsync(registerDto, options => options.ThrowOnFailures()).ConfigureAwait(false);
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);

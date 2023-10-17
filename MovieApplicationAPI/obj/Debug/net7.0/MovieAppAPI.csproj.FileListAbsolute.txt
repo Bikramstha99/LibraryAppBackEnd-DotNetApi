@@ -117,3 +117,4 @@ C:\Users\bikram.shrestha\Desktop\MovieApplication\MovieApplicationAPI\bin\Debug\
 C:\Users\bikram.shrestha\Desktop\MovieApplication\MovieApplicationAPI\bin\Debug\net7.0\runtimes\win-x86\native\realm-wrappers.dll
 C:\Users\bikram.shrestha\Desktop\MovieApplication\MovieApplicationAPI\obj\Debug\net7.0\MovieAppAPI.csproj.Fody.CopyLocal.cache
 C:\Users\bikram.shrestha\Desktop\MovieApplication\MovieApplicationAPI\obj\Debug\net7.0\MovieAppAPI.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\bikram.shrestha\Desktop\MovieApplication\MovieApplicationAPI\bin\Debug\net7.0\FluentValidation.dll

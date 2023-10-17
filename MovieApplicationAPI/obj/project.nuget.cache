@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cw+8aR75VnXbOnFIp6ZvHrKR0zJf1fuQXomH5Ldm8ozpzKwZKc2BlKyw5qAf5GH3L+grA+2zhri+JJYZbjuufg==",
+  "dgSpecHash": "h0fMd80rN52X6Ru6c8KclBdKdK1QiV7wnqFvMUuOMd3g4P82RS3wpg+HX4D07Q/hahUGMJ5oK4ETAnROcIyzEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bikram.shrestha\\Desktop\\MovieApplication\\MovieApplicationAPI\\MovieAppAPI.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\bikram.shrestha\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\bikram.shrestha\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\bikram.shrestha\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\bikram.shrestha\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\bikram.shrestha\\.nuget\\packages\\fody\\6.8.0\\fody.6.8.0.nupkg.sha512",
     "C:\\Users\\bikram.shrestha\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\bikram.shrestha\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.11\\microsoft.aspnetcore.authentication.jwtbearer.7.0.11.nupkg.sha512",

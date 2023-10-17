@@ -1,12 +1,15 @@
 
 
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using MovieAppAPI.Data;
+using MovieAppAPI.Dto;
 using MovieAppAPI.Mapping;
 //using MovieAppAPI.Middleware;
 using MovieAppAPI.Services;
+using MovieAppAPI.Validator;
 using MovieAppAppication.Interface.IRepository;
 using MovieAppInfrastructure.Implementation.Repository;
 using Swashbuckle.AspNetCore.Filters;
@@ -28,9 +31,13 @@ namespace MovieApplicationAPI
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<ICommentService, CommentService>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-
+            builder.Services.AddScoped<IValidator<RegisterDto>, UserRegisterValidation>();
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            //builder.Services
+            //    .AddControllers()
+            //    .AddNewtonsoftJson()
+            //    .AddXmlDataContractSerializerFormatters(); ;
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen(options =>
             {

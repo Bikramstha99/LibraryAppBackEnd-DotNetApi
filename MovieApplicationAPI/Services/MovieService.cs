@@ -1,8 +1,10 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using MovieAppAPI.Data;
 using MovieAppAPI.Dto;
 using MovieAppAppication.Interface.IRepository;
 using MovieAppDomain;
+using System.Globalization;
 
 namespace MovieAppAPI.Services
 {
@@ -38,6 +40,7 @@ namespace MovieAppAPI.Services
 
         public async Task<bool> AddMovieAsync(MovieCreateDto movieDto)
         {
+           
             if (!Directory.Exists(_imageMovieDirectory))
             {
                 Directory.CreateDirectory(_imageMovieDirectory);

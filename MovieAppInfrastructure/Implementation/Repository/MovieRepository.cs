@@ -57,6 +57,7 @@ namespace MovieAppInfrastructure.Implementation.Repository
                 existingMovie.Director = movie.Director;
                 existingMovie.ReleaseDate = movie.ReleaseDate;
                 existingMovie.Genre=movie.Genre;
+                existingMovie.PhotoPath=movie.PhotoPath;
                 
                 return true; 
             }

@@ -12,8 +12,8 @@ namespace MovieAppAPI.Dto
         public string Director { get; set; }
         [Required]
         public string Genre { get; set; }
-        [Required]
-        public DateTime ReleaseDate { get; set; }
+     
+        public DateTime? ReleaseDate { get; set; }
         [Required]
         public IFormFile? MovieImage { get; set; }
     }
