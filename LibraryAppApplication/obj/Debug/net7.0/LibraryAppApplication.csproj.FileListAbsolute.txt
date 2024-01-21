@@ -1,0 +1,15 @@
+D:\LibraryApplication\LibraryAppApplication\bin\Debug\net7.0\LibraryAppApplication.deps.json
+D:\LibraryApplication\LibraryAppApplication\bin\Debug\net7.0\LibraryAppApplication.dll
+D:\LibraryApplication\LibraryAppApplication\bin\Debug\net7.0\LibraryAppApplication.pdb
+D:\LibraryApplication\LibraryAppApplication\bin\Debug\net7.0\LibraryAppDomain.dll
+D:\LibraryApplication\LibraryAppApplication\bin\Debug\net7.0\LibraryAppDomain.pdb
+D:\LibraryApplication\LibraryAppApplication\obj\Debug\net7.0\LibraryAppApplication.csproj.AssemblyReference.cache
+D:\LibraryApplication\LibraryAppApplication\obj\Debug\net7.0\LibraryAppApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryApplication\LibraryAppApplication\obj\Debug\net7.0\LibraryAppApplication.AssemblyInfoInputs.cache
+D:\LibraryApplication\LibraryAppApplication\obj\Debug\net7.0\LibraryAppApplication.AssemblyInfo.cs
+D:\LibraryApplication\LibraryAppApplication\obj\Debug\net7.0\LibraryAppApplication.csproj.CoreCompileInputs.cache
+D:\LibraryApplication\LibraryAppApplication\obj\Debug\net7.0\LibraryAppApplication.csproj.CopyComplete
+D:\LibraryApplication\LibraryAppApplication\obj\Debug\net7.0\LibraryAppApplication.dll
+D:\LibraryApplication\LibraryAppApplication\obj\Debug\net7.0\refint\LibraryAppApplication.dll
+D:\LibraryApplication\LibraryAppApplication\obj\Debug\net7.0\LibraryAppApplication.pdb
+D:\LibraryApplication\LibraryAppApplication\obj\Debug\net7.0\ref\LibraryAppApplication.dll

@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\20231006_211917_638325771067353255.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\20231006_211917_638325771067353255.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\20231006_211917_638325771429608135.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\20231006_211917_638325771429608135.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\20231006_211917_638325786439985016.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\20231006_211917_638325786439985016.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\20231006_211918_638325661408904501.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\20231006_211918_638325661408904501.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\20231006_211918_638329720849536720.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\20231006_211918_638329720849536720.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\20240105213420_IMG_4191_638414605748802332.JPG",
+      "PackagePath": "staticwebassets\\Images\\Book\\20240105213420_IMG_4191_638414605748802332.JPG"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\265505571_453306269507183_2998951620244166483_n_638325909714004671.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\265505571_453306269507183_2998951620244166483_n_638325909714004671.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\265505571_453306269507183_2998951620244166483_n_638325910850420911.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\265505571_453306269507183_2998951620244166483_n_638325910850420911.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\265505571_453306269507183_2998951620244166483_n_638326640538089264.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\265505571_453306269507183_2998951620244166483_n_638326640538089264.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n (1)_638325920214184114.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n (1)_638325920214184114.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n (1)_638325927663254857.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n (1)_638325927663254857.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n (1)_638326164528113012.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n (1)_638326164528113012.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n (1)_638326777028004103.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n (1)_638326777028004103.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n (1)_638326781176338845.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n (1)_638326781176338845.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638325927890645687.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638325927890645687.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638325930698719622.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638325930698719622.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638325931440338307.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638325931440338307.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638326778083309768.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638326778083309768.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638326780159545128.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638326780159545128.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638330532524964201.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\337724784_127286070177888_4395007700103864324_n_638330532524964201.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\380684867_293113010226985_7746851597472986188_n_638325909111030737.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\380684867_293113010226985_7746851597472986188_n_638325909111030737.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\380684867_293113010226985_7746851597472986188_n_638325909312123496.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\380684867_293113010226985_7746851597472986188_n_638325909312123496.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\380684867_293113010226985_7746851597472986188_n_638325909313208189.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\380684867_293113010226985_7746851597472986188_n_638325909313208189.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\380684867_293113010226985_7746851597472986188_n_638325911102937518.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\380684867_293113010226985_7746851597472986188_n_638325911102937518.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Bookstore_638387651403200824.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\Bookstore_638387651403200824.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\CamScanner 07-09-2023 15.06_1_638413828422692156.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\CamScanner 07-09-2023 15.06_1_638413828422692156.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\CamScanner 07-09-2023 15.06_2_638413893398748001.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\CamScanner 07-09-2023 15.06_2_638413893398748001.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\ER diagram_638327083016626453.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\ER diagram_638327083016626453.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\ER diagram_638327116542966261.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\ER diagram_638327116542966261.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\ER diagram_638329668453707141.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\ER diagram_638329668453707141.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\ER diagram_638329671015995697.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\ER diagram_638329671015995697.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\ER diagram_638329740989221700.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\ER diagram_638329740989221700.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\ER diagram_638330522283083922.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\ER diagram_638330522283083922.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\ER diagram_638330524354842171.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\ER diagram_638330524354842171.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Harryporter_638325914845296249.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\Harryporter_638325914845296249.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Harryporter_638325938733106943.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\Harryporter_638325938733106943.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Harryporter_638327116677805667.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\Harryporter_638327116677805667.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Harryporter_638327119076163045.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\Harryporter_638327119076163045.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Harryporter_638329720995431462.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\Harryporter_638329720995431462.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Harryporter_638330527542861487.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\Harryporter_638330527542861487.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Online-Movie-Ticket-Booking-Banner-1_638329719604845788.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\Online-Movie-Ticket-Booking-Banner-1_638329719604845788.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Online-Movie-Ticket-Booking-Banner-1_638329744609153372.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\Online-Movie-Ticket-Booking-Banner-1_638329744609153372.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Online-Movie-Ticket-Booking-Banner-1_638329744911746581.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\Online-Movie-Ticket-Booking-Banner-1_638329744911746581.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Online-Movie-Ticket-Booking-Banner-1_638330036297407147.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\Online-Movie-Ticket-Booking-Banner-1_638330036297407147.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Screenshot_20231011-084553_NIC ASIA MoBank_638327075231997263.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\Screenshot_20231011-084553_NIC ASIA MoBank_638327075231997263.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Screenshot_20231011-084553_NIC ASIA MoBank_638329708445372861.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\Screenshot_20231011-084553_NIC ASIA MoBank_638329708445372861.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Screenshot_20231011-084553_NIC ASIA MoBank_638329726028365473.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\Screenshot_20231011-084553_NIC ASIA MoBank_638329726028365473.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\Screenshot_20231011-084553_NIC ASIA MoBank_638329754998507996.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\Screenshot_20231011-084553_NIC ASIA MoBank_638329754998507996.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (1)_638323165061909239.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (1)_638323165061909239.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (1)_638323165415507567.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (1)_638323165415507567.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (1)_638325360351785339.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (1)_638325360351785339.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (1)_638325613954367062.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (1)_638325613954367062.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (2)_638325361251194916.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (2)_638325361251194916.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (3)_638321085800278199.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (3)_638321085800278199.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (3)_638321100903252895.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (3)_638321100903252895.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (3)_638321109253731402.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (3)_638321109253731402.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (4)_638321016895645555.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (4)_638321016895645555.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (4)_638321026279374645.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (4)_638321026279374645.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (4)_638324478469748231.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (4)_638324478469748231.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (7)_638321111434361296.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (7)_638321111434361296.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (7)_638321112407309792.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (7)_638321112407309792.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (7)_638322916372732841.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (7)_638322916372732841.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image (7)_638323872353298866.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image (7)_638323872353298866.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image_638321117181552609.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image_638321117181552609.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image_638321169008866973.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image_638321169008866973.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image_638321169488033812.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image_638321169488033812.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image_638321178783801503.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image_638321178783801503.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image_638321200400606308.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image_638321200400606308.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\image_638321200828422279.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image_638321200828422279.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\naruto_638325915664998421.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\naruto_638325915664998421.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\naruto_638326636420025771.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\naruto_638326636420025771.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\naruto_638326637378401457.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\naruto_638326637378401457.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\naruto_638326637655936936.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\naruto_638326637655936936.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\naruto_638326774511393670.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\naruto_638326774511393670.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\naruto_638326782122813460.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\naruto_638326782122813460.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\naruto_638330531221723460.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\naruto_638330531221723460.png"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\stock-vector-online-cinema-art-movie-watching-with-popcorn-and-film-strip-cinematograph-concept-vintage-retro-586719869_638329721614108832.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\stock-vector-online-cinema-art-movie-watching-with-popcorn-and-film-strip-cinematograph-concept-vintage-retro-586719869_638329721614108832.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\stock-vector-online-cinema-art-movie-watching-with-popcorn-and-film-strip-cinematograph-concept-vintage-retro-586719869_638330533408644067.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\stock-vector-online-cinema-art-movie-watching-with-popcorn-and-film-strip-cinematograph-concept-vintage-retro-586719869_638330533408644067.jpg"
+    },
+    {
+      "Id": "D:\\LibraryApplication\\LibraryAppAPI\\wwwroot\\Images\\Book\\stock-vector-online-cinema-art-movie-watching-with-popcorn-and-film-strip-cinematograph-concept-vintage-retro-586719869_638330535343570614.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\stock-vector-online-cinema-art-movie-watching-with-popcorn-and-film-strip-cinematograph-concept-vintage-retro-586719869_638330535343570614.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LibraryAppAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LibraryAppAPI.props",
+      "PackagePath": "build\\LibraryAppAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LibraryAppAPI.props",
+      "PackagePath": "buildMultiTargeting\\LibraryAppAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LibraryAppAPI.props",
+      "PackagePath": "buildTransitive\\LibraryAppAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
